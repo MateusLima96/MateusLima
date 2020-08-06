@@ -15,4 +15,16 @@ Currently working at Osf Global Services.
 </p>
 <p align="center">Services integrations</p>
 
+<h1 align="center">What I'm learning</h1>
+    <td>
+        <ul><a href="https://spring.io/projects/spring-boot">🔗 Spring Boot</a></ul>
+        <ul><a href="https://pt-br.reactjs.org/">🔗 React</a></ul>
+    </td>
+    
+<br/> :email: &nbsp; Get in contact with me: [![Linkedin Badge](https://img.shields.io/badge/-MateusLima-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateus-lima-209b59140/)](https://www.linkedin.com/in/mateus-lima-209b59140/) 
+
+
+
+
+
 
